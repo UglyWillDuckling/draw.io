@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T18:24:05.021Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="K6J46YmZQxqMoenC1bzM" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T18:27:43.184Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="R53WQVxLrFm8flT-TRtb" version="22.1.17" type="github">
   <diagram id="piDafpqhtRUU5qUU-vj8" name="Page-1">
-    <mxGraphModel dx="1472" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3271" dy="990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -382,7 +382,7 @@
           <mxGeometry x="30" y="360" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S-aHRPFoCMXhp_Hrwsch-270" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="70" y="2580" width="1150" height="580" as="geometry" />
+          <mxGeometry x="250" y="2510" width="630" height="580" as="geometry" />
         </mxCell>
         <mxCell id="S-aHRPFoCMXhp_Hrwsch-271" value="Django Board" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-270">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
