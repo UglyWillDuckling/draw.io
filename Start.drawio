@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T18:15:20.749Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="c_mkxe_ta0PF7P5P3HXW" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T18:24:05.021Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="K6J46YmZQxqMoenC1bzM" version="22.1.17" type="github">
   <diagram id="piDafpqhtRUU5qUU-vj8" name="Page-1">
-    <mxGraphModel dx="1759" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1472" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,9 +124,6 @@
         </mxCell>
         <mxCell id="S-aHRPFoCMXhp_Hrwsch-32" value="https://www.example.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-30">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="S-aHRPFoCMXhp_Hrwsch-46" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-30">
-          <mxGeometry y="1180" width="1150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="S-aHRPFoCMXhp_Hrwsch-47" value="" style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=0;fontSize=13;fontColor=#0066CC;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-30">
           <mxGeometry x="425" y="1230" width="300" height="40" as="geometry" />
@@ -384,41 +381,8 @@
         <mxCell id="S-aHRPFoCMXhp_Hrwsch-254" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor=#666666;strokeColor2=#008cff;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-214">
           <mxGeometry x="30" y="360" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="S-aHRPFoCMXhp_Hrwsch-259" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="210" y="2590" width="1110" height="645" as="geometry" />
-        </mxCell>
-        <mxCell id="S-aHRPFoCMXhp_Hrwsch-260" value="Django Board" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-259">
-          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="S-aHRPFoCMXhp_Hrwsch-261" value="https://www.example.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-259">
-          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="S-aHRPFoCMXhp_Hrwsch-262" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.markup.line;strokeColor=#999999;fillColor=#008CFF;fontSize=13;fontColor=#0066CC;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-259">
-          <mxGeometry y="1180" width="1150" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="S-aHRPFoCMXhp_Hrwsch-263" value="" style="shape=rect;fillColor=#ffffff;strokeColor=#eeeeee;shadow=0;fontSize=13;fontColor=#0066CC;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-259">
-          <mxGeometry x="425" y="1230" width="300" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="S-aHRPFoCMXhp_Hrwsch-264" value="Boards / Django / New Topic" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-259">
-          <mxGeometry x="30" y="140" width="305" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="S-aHRPFoCMXhp_Hrwsch-265" value="&lt;b&gt;Subject&lt;/b&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=0;fontColor=#666666;spacing=0;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-259">
-          <mxGeometry x="10" y="179" width="50" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="S-aHRPFoCMXhp_Hrwsch-266" value="Hello, everyone!" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-259">
-          <mxGeometry x="20" y="197" width="350" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="S-aHRPFoCMXhp_Hrwsch-267" value="&lt;b&gt;Message&lt;/b&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-259">
-          <mxGeometry x="20" y="232" width="50" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="S-aHRPFoCMXhp_Hrwsch-268" value="This is my first post." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=default;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;perimeterSpacing=4;gradientColor=none;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-259">
-          <mxGeometry x="20" y="250" width="350" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="S-aHRPFoCMXhp_Hrwsch-269" value="Post" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=14;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-259">
-          <mxGeometry x="20" y="410" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="S-aHRPFoCMXhp_Hrwsch-270" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-259">
-          <mxGeometry y="70" width="1150" height="585" as="geometry" />
+        <mxCell id="S-aHRPFoCMXhp_Hrwsch-270" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2580" width="1150" height="580" as="geometry" />
         </mxCell>
         <mxCell id="S-aHRPFoCMXhp_Hrwsch-271" value="Django Board" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-270">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -444,8 +408,29 @@
         <mxCell id="S-aHRPFoCMXhp_Hrwsch-280" value="Posta reply" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=10;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-270">
           <mxGeometry x="20" y="273" width="80" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="S-aHRPFoCMXhp_Hrwsch-307" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=default;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;perimeterSpacing=4;gradientColor=none;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-270">
-          <mxGeometry x="20" y="330" width="450" height="50" as="geometry" />
+        <mxCell id="S-aHRPFoCMXhp_Hrwsch-307" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=default;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;perimeterSpacing=4;gradientColor=none;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-270">
+          <mxGeometry x="20" y="330" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S-aHRPFoCMXhp_Hrwsch-311" value="megan" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;fontStyle=1" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-270">
+          <mxGeometry x="30" y="333" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S-aHRPFoCMXhp_Hrwsch-313" value="Hi Vitor! Welcome!" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-270">
+          <mxGeometry x="30" y="345" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S-aHRPFoCMXhp_Hrwsch-314" value="6 minutes ago" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-270">
+          <mxGeometry x="380" y="335" width="90" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="S-aHRPFoCMXhp_Hrwsch-326" value="&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=default;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;verticalAlign=top;perimeterSpacing=4;gradientColor=none;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-270">
+          <mxGeometry x="20" y="380" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S-aHRPFoCMXhp_Hrwsch-327" value="vitor" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;fontStyle=1" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-270">
+          <mxGeometry x="25" y="383" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="S-aHRPFoCMXhp_Hrwsch-328" value="This is my first post... just saying hello!" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;fontSize=12;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-270">
+          <mxGeometry x="30" y="393" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="S-aHRPFoCMXhp_Hrwsch-329" value="12 minutes ago" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#808080;" vertex="1" parent="S-aHRPFoCMXhp_Hrwsch-270">
+          <mxGeometry x="380" y="385.5" width="90" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
